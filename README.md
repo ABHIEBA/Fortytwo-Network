@@ -1,4 +1,4 @@
-# Step-by-Step Guide on Fortytwo Network Node ( Hitchhiking to AGI" Program )
+# Step-by-Step Guide on Fortytwo Network Node ( Hitchhiking to AGI Program )
 
 ```
 apt-get update && apt-get upgrade -y
@@ -19,7 +19,7 @@ cd fortytwo-console-app-main
 chmod +x linux.sh && ./linux.sh
 
 ```
-
+```
 cd ~/Fortytwo/fortytwo-console-app-main
 ```
 
