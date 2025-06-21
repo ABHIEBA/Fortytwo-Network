@@ -19,6 +19,8 @@ cd fortytwo-console-app-main
 chmod +x linux.sh && ./linux.sh
 
 ```
+
+# USE BELOW COMMANDS TO RESTART NODE AGAIN ( LOCAL PC )
 ```
 cd ~/Fortytwo/fortytwo-console-app-main
 ```
